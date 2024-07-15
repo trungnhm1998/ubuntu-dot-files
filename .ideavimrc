@@ -77,7 +77,7 @@ map gl <Action>(QuickJavaDoc)
 map gh <Action>(ShowErrorDescription)
 map gm <Action>(HideAllWindows)
 map gu <Action>(FindUsages)
-map <leader>gu <Action>(QuickImplementations)
+map <leader>gd <Action>(QuickImplementations)
 
 " ******************************************
 " Remap for conflicts
